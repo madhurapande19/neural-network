@@ -17,5 +17,6 @@ into 1 of 10 classes.(Randomly sampled).
 > 2. src/run.sh : Wrapper around train.csv, has all the hyperparameters tuned to the best value. <br/>
 > 3. src/testing.sh : This will use the pretrained model and saves predictions on test data in expt_dir. <br/>
 > 4. save_dir : This contains the weights of best model trained so far. <br/>
+> 5. supported.txt : This contains list of supported features by this model.
 
 This code achieves an accuracy of 92% on test data.
