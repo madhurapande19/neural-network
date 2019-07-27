@@ -1,0 +1,2 @@
+python3 train.py --pretrain True --state 1 --testing True --num_hidden 2 --sizes 800,800 --activation sigmoid --save_dir ../save_dir/best --expt_dir ../expt_dir --test test.csv
+python3 train.py --pretrain True --state 2 --testing True --num_hidden 2 --sizes 800,800 --activation sigmoid --save_dir ../save_dir/best --expt_dir ../expt_dir --test test.csv

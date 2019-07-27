@@ -1,0 +1,10 @@
+lr: 0.9
+momentum: 0
+num_hidden: 2
+sizes: 800,800
+activation: sig
+loss: ce
+opt: gd
+batch_size: 20
+epochs: 10 
+anneal: false
