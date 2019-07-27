@@ -6,7 +6,7 @@ tested using the A-Z Handwritten Alphabets dataset. Specifically, given an input
 into 1 of 10 classes.(Randomly sampled). 
 
 ## Files
-> 1.src/train.csv : The basic model which gets trained on the above task.
+> 1.src/train.csv : The basic model which gets trained on the above task. <br/>
 > 2.src/run.sh : Wrapper around train.csv, has all the hyperparameters tuned to the best value.
 > 3.src/testing.sh : This will use the pretrained model and saves predictions on test data in expt_dir.
 > 4.save_dir : This contains the weights of best model trained so far.
