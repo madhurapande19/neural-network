@@ -7,7 +7,7 @@ into 1 of 10 classes.(Randomly sampled).
 
 ## Steps to train/test
 > 1. Download train.csv from "https://drive.google.com/file/d/1ZviWz8h5Cw85d3lqIi1bOzH-nQh-HOJD/view?usp=sharing". All the data files," train.csv", "valid.csv" and "test.csv" should be in same "src" folder. <br/>
-> 2. To generated predictions using pretrained model, just run: <br/>
+> 2. To generate predictions using pretrained model, just run: <br/>
 >       `bash testing.sh`
 > 3. To train the model from scratch, run: <br/>
 >       `bash run.sh`
