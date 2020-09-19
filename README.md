@@ -20,3 +20,8 @@ into 1 of 10 classes.(Randomly sampled).
  5. supported.txt : This contains list of supported features by this model.
 
 This code achieves an accuracy of 92% on test data.
+
+## Authors
+<a href="https://github.com/madhurapande19">Madhura Pande</a>
+
+<a href="https://github.com/AakritiBudhraja">Aakriti Budhraja</a> 
